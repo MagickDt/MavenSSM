@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6a53775-ef0e-4caa-ab7c-b8d039f114b4" name="Default" comment="maven整合ssm框架">
+    <list default="true" id="f6a53775-ef0e-4caa-ab7c-b8d039f114b4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MavenParent/.idea/artifacts/TestWeb_war_exploded.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/artifacts/TestWeb_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MavenParent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MavenParent/MavenParent.iml" afterPath="$PROJECT_DIR$/../MavenParent/MavenParent.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MavenParent/TestWeb/TestWeb.iml" afterPath="$PROJECT_DIR$/../MavenParent/TestWeb/TestWeb.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MavenParent/dao/dao.iml" afterPath="$PROJECT_DIR$/../MavenParent/dao/dao.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MavenParent/service/service.iml" afterPath="$PROJECT_DIR$/../MavenParent/service/service.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_2_1_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_1_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_1_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_2_1_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_1_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_1_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_orm_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_orm_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" afterPath="$PROJECT_DIR$/../MavenParent/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../MavenParent/out/" />
     <ignored path="$PROJECT_DIR$/../MavenParent/target/" />
@@ -23,8 +46,8 @@
       <file leaf-file-name="service.iml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../MavenParent/service/service.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+            <state relative-caret-position="384">
+              <caret line="46" column="36" lean-forward="false" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -85,6 +108,7 @@
         <option value="$PROJECT_DIR$/../MavenParent/dao/pom.xml" />
         <option value="$PROJECT_DIR$/../MavenParent/service/src/main/java/com/dongtao/service/ItemsService.java" />
         <option value="$PROJECT_DIR$/../MavenParent/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/../MavenParent/service/service.iml" />
       </list>
     </option>
   </component>
@@ -148,7 +172,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages ProjectPane="true" />
@@ -175,6 +201,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="MavenParent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MavenParent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MavenParent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MavenParent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MavenParent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -970,7 +1024,7 @@
       <workItem from="1578588310050" duration="2164000" />
       <workItem from="1578590618900" duration="9195000" />
       <workItem from="1578638808657" duration="74000" />
-      <workItem from="1578638887846" duration="421000" />
+      <workItem from="1578638887846" duration="2501000" />
     </task>
     <task id="LOCAL-00001" summary="maven整合ssm框架">
       <created>1578591436693</created>
@@ -1014,7 +1068,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578639024391</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="maven整合ssm框架">
+      <created>1578639318024</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578639318024</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1038,7 +1099,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29666000" />
+    <option name="totallyTimeSpent" value="31746000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1071,7 +1132,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4182015" sideWeight="0.7697228" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5032538" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7483731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3449024" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21801706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1408,8 +1469,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../MavenParent/service/service.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="32" column="17" lean-forward="false" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        <state relative-caret-position="384">
+          <caret line="46" column="36" lean-forward="false" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
           <folding />
         </state>
       </provider>
